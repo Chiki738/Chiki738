@@ -9,26 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://portafolio-react-vite.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio" />
-  </a>
-  <a href="mailto:carlosalzamorah@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Candida18" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/carlos-alzamora" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
-  </a>
+    <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ---
 
 ## 💼 Perfil Profesional
 
-Soy un estudiante apasionado por el desarrollo de soluciones tecnológicas. Cuento con experiencia práctica en proyectos **Front-End y Back-End**, usando tecnologías modernas como **React**, **Vite**, **Java**, **Spring Boot**, y bases de datos **SQL** y **NoSQL**.
-
-✨ Me caracterizo por ser disciplinado, proactivo y adaptable. Me gusta trabajar en equipo, resolver problemas y aplicar metodologías ágiles. Además, tengo interés en **seguridad de la información**, **ciberseguridad** y **gestión de riesgos**.
+Soy un estudiante apasionado por el desarrollo de soluciones tecnológicas. Cuento con experiencia práctica en proyectos Front-End y Back-End.
 
 ---
