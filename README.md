@@ -1,4 +1,4 @@
-h1 align="center">
+<h1 align="center">
   👋 ¡Hola! Soy <strong>Chiki</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
