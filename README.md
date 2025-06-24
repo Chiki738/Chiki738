@@ -1,7 +1,4 @@
-<h1 align="center">
-  👋 ¡Hola! Soy <strong>Chiki</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+### 👋 ¡Hola! Soy **Chiki**
 
 <p align="center">
   <strong>Carlos Daniel Alzamora Huamán</strong><br />
@@ -18,19 +15,17 @@
 
 ## 💼 Perfil Profesional
 
-Soy estudiante de Ingeniería de Sistemas e Informática, enfocado en obtener resultados y la mejora continua mediante el desarrollo de soluciones tecnológicas. Tengo experiencia práctica en proyectos **Front-End** y **Back-End**, destacando por mi organización, análisis y uso eficiente de herramientas modernas.
+Soy estudiante de Ingeniería de Sistemas e Informática enfocado en obtener resultados y la mejora continua a través del desarrollo de soluciones tecnológicas. Tengo experiencia práctica en proyectos **Back-End** y **Front-End**, destacando en el análisis, organización y uso eficiente de herramientas modernas.
 
-🚀 Me adapto rápidamente a nuevas tecnologías, creando productos funcionales y alineados a los objetivos del negocio.  
-💡 Disfruto del trabajo en equipo, el aprendizaje constante y colaborar tanto con equipos técnicos como no técnicos.  
-🎯 Me interesa especialmente la **Seguridad de la Información**, **Ciberseguridad** y la **Gestión de Riesgos**.  
-
-Soy una persona disciplinada, proactiva y orientada a la mejora continua. Busco siempre aportar valor real al usuario y a la organización.
+🚀 Me adapto rápidamente a nuevas tecnologías para construir productos funcionales, intuitivos y alineados a objetivos del negocio.  
+💡 Disfruto del aprendizaje constante y de trabajar en equipo con personas técnicas y no técnicas.  
+🎯 Interesado en aplicar mis conocimientos en **Seguridad de la Información**, **Gestión de Riesgos** y **Ciberseguridad**, contribuyendo a proteger los sistemas organizacionales.
 
 ---
 
 ## 🧰 Tecnologías que uso
 
-### 🔷 Lenguajes de Programación
+### 🔷 Lenguajes
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,php" />
 </p>
@@ -45,19 +40,21 @@ Soy una persona disciplinada, proactiva y orientada a la mejora continua. Busco 
   <img src="https://skillicons.dev/icons?i=spring,laravel,mysql,postgres,mongodb,supabase" />
 </p>
 
-### 🛠️ Herramientas y Otros
+### 🛠️ Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
 </p>
 
-### 📚 Productividad y Organización
+### 📚 Productividad
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,obsidian" />
+  <img src="https://skillicons.dev/icons?i=notion,obsidian,vscode" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🔍 Fun fact & Stats
+
+✨ Me apasiona el código, la tecnología y aprender algo nuevo cada día. También disfruto los retos, la organización y trabajar con buenas prácticas ✨
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chiki738&show_icons=true&count_private=true&theme=tokyonight" width="400" />
@@ -68,14 +65,10 @@ Soy una persona disciplinada, proactiva y orientada a la mejora continua. Busco 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiki738&layout=compact&theme=tokyonight" width="400" />
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chiki738&label=Visitas+al+perfil&color=blue&style=flat-square" />
 </p>
 
----
-
 <p align="center">
-  🚀 Siempre aprendiendo, siempre mejorando. ✨
+  🚀 ¡Gracias por visitar mi perfil! ⭐
 </p>
