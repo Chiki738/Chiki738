@@ -29,12 +29,6 @@ Cuento con experiencia práctica en proyectos **Back-End** y **Front-End**, dest
 
 ## 🧰 Tecnologías que uso
 
-```text
-💻 Java, JavaScript, PHP, HTML, CSS
-⚙️ React, Spring Boot, Laravel
-🗃️ SQL Server, MySQL, MongoDB
-🛠️ Git, GitHub, Power BI, Excel
-
 
 
 <h1 align="center">
