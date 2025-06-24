@@ -9,6 +9,90 @@
 </p>
 
 <p align="center">
+  <a href="https://portafolio-react-vite.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/></a>
+  <a href="https://github.com/Chiki738"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/carlos-alzamora/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+---
+
+## 💼 Perfil Profesional
+
+Me enfoco en **obtener resultados** y en la **mejora continua** a través del desarrollo de soluciones tecnológicas. 
+Cuento con experiencia práctica en proyectos **Back-End** y **Front-End**, destacando en el **análisis**, la **organización** y el **uso eficiente de herramientas modernas**.
+
+🚀 Me adapto rápidamente a nuevas tecnologías para construir productos funcionales, intuitivos y alineados a los objetivos del negocio.  
+💡 Disfruto del aprendizaje constante, el trabajo en equipo, y la colaboración con personas técnicas y no técnicas.  
+🎯 Busco contribuir con **soluciones tecnológicas que generen valor real** para el usuario y la organización.
+
+---
+
+## 🧰 Tecnologías que uso
+
+### 🔷 Lenguajes de Programación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php" />
+</p>
+
+### 🎨 Front-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,vite" />
+</p>
+
+### 🔧 Back-End y Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,laravel,mysql,postgres,mongodb,supabase" />
+</p>
+
+### 🛠️ Herramientas y Otros
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+</p>
+
+### 📚 Productividad y Notas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=notion,obsidian" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">
+  ¡Hola! Soy <strong>Chiki</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+
+<p align="center">
+  <strong>Carlos Daniel Alzamora Huamán</strong><br />
+  🎓 Estudiante de Ingeniería de Sistemas e Informática
+</p>
+
+<p align="center">
     <a href="https://portafolio-react-vite.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://github.com/Chiki738"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/carlos-alzamora/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -29,89 +113,15 @@ Cuento con experiencia práctica en proyectos **Back-End** y **Front-End**, dest
 
 ## 🧰 Tecnologías que uso
 
-
-
-<h1 align="center">
-  👋 ¡Hola! Soy <strong>Chiki</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-
 <p align="center">
-  <strong> Carlos Daniel Alzamora Huamán </strong><br />
-  🎓 Estudiante de Ingeniería de Sistemas e Informática
-</p>
-
-<p align="center">
-    <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
----
-
-## 💼 Perfil Profesional
-
-Soy un estudiante apasionado por el desarrollo de soluciones tecnológicas. Cuento con experiencia práctica en proyectos Front-End y Back-End.
-
----
-
-
-<h1 align="center"><b>Hola, Yo soy Chiki</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
-
-<hr>
-
-<p>
-  <strong>Carlos Daniel Alzamora Huamán</strong><br />
-  Estudiante de Ingeniería de Sistemas e Informática<br />
-</p>
-
-<h3>Perfil Profesional</h3>
-<p>
-  Soy estudiante de Ingeniería de Sistemas e Informática con experiencia práctica en proyectos Front-End y Back-End. 
-  Me apasiona aprender y aplicar nuevas tecnologías para el desarrollo de soluciones que aporten valor real al usuario y a la organización.
-  Me destaco por mi disciplina, responsabilidad y capacidad de adaptación. Trabajo bien en equipo, gestiono la presión de manera efectiva 
-  y tengo un enfoque constante en la mejora continua.
-</p>
-<p>
-  He participado en el desarrollo de aplicaciones web utilizando tecnologías como React, Vite, Java, Spring Boot y bases de datos SQL y NoSQL.
-  También tengo interés en áreas como la gestión de riesgos, seguridad de la información y ciberseguridad.
-</p>
-
-
-
-
-<h2 align="center"> Hi 👋 , I'm Israt Jahan Khan <br/></h2> 
-<h3 align="center">Also known as "Ipty" to other people. <br> <br>
-  <a href="https://github.com/IsratIJK" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/IsratIJK?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/IsratIJK" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=IsratIJK&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
-  </h3>   
-                             
-                    
-<details align="center"> 
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=IsratIJK&theme=gruvbox"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,docker,git,github,html,java,js,supabase,laravel,mint,mongodb,mysql,notion,obsidian,php,postgres,postman,ts,vite" />
   </a>
 </p>
-</details>
-  
+
+
+
+
   
     
   
