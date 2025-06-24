@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/df4wb0ohq/image/upload/v1750789721/qldzcvl225mgfmku2cz4.jpg"/>
+
 <h1 align="center"><b>Hola, Yo soy Carlos Alzamora</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr>
