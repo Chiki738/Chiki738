@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portafolio-react-vite.vercel.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/></a>
-  <a href="https://github.com/Chiki738" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://portafolio-react-vite.vercel.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/>Portafolio Web</a>
+  <a href="https://github.com/Chiki738" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>GitHub</a>
+  <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>LinkedIn</a>
 </p>
 
 ---
