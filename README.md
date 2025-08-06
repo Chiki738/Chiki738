@@ -8,16 +8,16 @@
   🎓 Estudiante de Ingeniería de Sistemas e Informática
 </p>
 
-<div align="center">
-  <a href="https://portafolio-react-vite.vercel.app/" target="_blank" style="margin: 0 20px; text-decoration: none; color: black;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 10px;">
+  <a href="https://portafolio-react-vite.vercel.app/" target="_blank" style="text-align: center; text-decoration: none; color: black;">
     <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio" />
     <div><strong>Portafolio Web</strong></div>
   </a>
-  <a href="https://github.com/Chiki738" target="_blank" style="margin: 0 20px; text-decoration: none; color: black;">
+  <a href="https://github.com/Chiki738" target="_blank" style="text-align: center; text-decoration: none; color: black;">
     <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" />
     <div><strong>GitHub</strong></div>
   </a>
-  <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank" style="margin: 0 20px; text-decoration: none; color: black;">
+  <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank" style="text-align: center; text-decoration: none; color: black;">
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
     <div><strong>LinkedIn</strong></div>
   </a>
