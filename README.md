@@ -8,7 +8,7 @@
   🎓 Estudiante de Ingeniería de Sistemas e Informática
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 10px;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; padding: 10px;">
   <a href="https://portafolio-react-vite.vercel.app/" target="_blank" style="text-align: center; text-decoration: none; color: black;">
     <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio" />
     <div><strong>Portafolio Web</strong></div>
