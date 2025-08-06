@@ -4,27 +4,32 @@
 </h1>
 
 <p align="center">
-  <strong>Carlos Daniel Alzamora Huamán</strong><br />
+  <strong>Carlos Alzamora H.</strong><br />
   🎓 Estudiante de Ingeniería de Sistemas e Informática
 </p>
 
-<p align="center">
-  <a href="https://portafolio-react-vite.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/80/000000/web.png" alt="Portafolio"/><br />
-    <strong>Portafolio Web</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Chiki738" target="_blank">
-    <img src="https://img.icons8.com/bubbles/80/000000/github.png" alt="GitHub"/><br />
-    <strong>GitHub</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/80/000000/linkedin.png" alt="LinkedIn"/><br />
-    <strong>LinkedIn</strong>
-  </a>
-</p>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/Chiki738" target="_blank">
+        <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/><br />
+        <strong>GitHub</strong>
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://portafolio-react-vite.vercel.app/" target="_blank">
+        <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/><br />
+        <strong>Portafolio Web</strong>
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank">
+        <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/><br />
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
