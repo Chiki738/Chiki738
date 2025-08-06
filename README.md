@@ -8,11 +8,20 @@
   🎓 Estudiante de Ingeniería de Sistemas e Informática
 </p>
 
-<p align="center">
-  <a href="https://portafolio-react-vite.vercel.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/>Portafolio Web</a>
-  <a href="https://github.com/Chiki738" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>GitHub</a>
-  <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>LinkedIn</a>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <a href="https://portafolio-react-vite.vercel.app/" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio" />
+    <div>Portafolio Web</div>
+  </a>
+  <a href="https://github.com/Chiki738" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" />
+    <div>GitHub</div>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
+    <div>LinkedIn</div>
+  </a>
+</div>
 
 ---
 
