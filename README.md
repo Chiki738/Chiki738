@@ -17,7 +17,7 @@
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://portafolio-react-vite.vercel.app/" target="_blank">
+      <a href="https://portfolio-chiki.vercel.app/" target="_blank">
         <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/><br />
         <strong>Portafolio Web</strong>
       </a>
