@@ -11,9 +11,9 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/Chiki738" target="_blank">
-        <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/><br />
-        <strong>GitHub</strong>
+      <a href="https://drive.google.com/file/d/1VEwgapFRvwGZxI2gUyN4ShlHmDPGmpAF/view?usp=sharing" target="_blank">
+        <img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="CV"/><br />
+        <strong>Mi CV</strong>
       </a>
     </td>
     <td align="center" width="150px">
@@ -35,12 +35,12 @@
 
 ## 💼 Perfil Profesional
 
-Me enfoco en **obtener resultados** y en la **mejora continua** mediante soluciones tecnológicas. 
+Me enfoco en **obtener resultados** y en la **mejora continua** mediante soluciones tecnológicas.  
 He trabajado en proyectos **Back-End** y **Front-End**, destacando en **análisis**, **organización** y el uso eficiente de herramientas modernas.
 
-- 🚀 Rápida adaptación a nuevas tecnologías.
-- 💡 Amante del aprendizaje constante y el trabajo en equipo.
-- 🌟 Motivado a generar soluciones que aporten valor real.
+- 🚀 Rápida adaptación a nuevas tecnologías.  
+- 💡 Amante del aprendizaje constante y el trabajo en equipo.  
+- 🌟 Motivado a generar soluciones que aporten valor real.  
 
 ---
 
@@ -53,7 +53,7 @@ He trabajado en proyectos **Back-End** y **Front-End**, destacando en **análisi
 
 ### 🎨 Front-End
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vite" />
 </p>
 
 ### 🔧 Back-End y Bases de Datos
