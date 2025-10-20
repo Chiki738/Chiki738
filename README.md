@@ -17,13 +17,13 @@
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://portfolio-chiki.vercel.app/" target="_blank">
+      <a href="https://portafolio-chiki.vercel.app/" target="_blank">
         <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/><br />
         <strong>Portafolio Web</strong>
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://www.linkedin.com/in/carlos-alzamora/" target="_blank">
+      <a href="https://www.linkedin.com/in/carlos-alzamora-chiki/" target="_blank">
         <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/><br />
         <strong>LinkedIn</strong>
       </a>
