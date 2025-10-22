@@ -11,7 +11,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="150px">
-      <a href="https://drive.google.com/file/d/1VEwgapFRvwGZxI2gUyN4ShlHmDPGmpAF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/1PjvKJRrzq0GJrM2c7pLGxUgkA1X_RCFv/view?usp=sharing" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="CV"/><br />
         <strong>Mi CV</strong>
       </a>
