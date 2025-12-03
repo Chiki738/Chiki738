@@ -8,17 +8,28 @@
   <i>"Transformando ideas en código eficiente y escalable"</i>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1PjvKJRrzq0GJrM2c7pLGxUgkA1X_RCFv/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="CV" style="margin-right: 20px"/>
-  </a>
-  <a href="https://portafolio-chiki.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio" style="margin-right: 20px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-alzamora-chiki/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://drive.google.com/file/d/1PjvKJRrzq0GJrM2c7pLGxUgkA1X_RCFv/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="CV"/><br />
+        <strong>Mi CV</strong>
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://portafolio-chiki.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/><br />
+        <strong>Portafolio Web</strong>
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://www.linkedin.com/in/carlos-alzamora-chiki/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/><br />
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,13 +59,4 @@ Soy un desarrollador apasionado por el **Full Stack**, con un fuerte enfoque en 
   **Herramientas & Productividad**<br>
   <img src="https://skillicons.dev/icons?i=git,github,postman,notion,obsidian" />
 
-</div>
-
----
-
-### 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiki738&show_icons=true&theme=algolia&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiki738&layout=compact&theme=algolia&hide_border=true" height="160px"/>
 </div>
