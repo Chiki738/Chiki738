@@ -51,7 +51,7 @@ Soy un desarrollador apasionado por el **Full Stack**, con un fuerte enfoque en 
   <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css" /><br><br>
 
   **Frameworks & Librerías**<br>
-  <img src="https://skillicons.dev/icons?i=spring,laravel,react,bootstrap,vite" /><br><br>
+  <img src="https://skillicons.dev/icons?i=spring,laravel,react,bootstrap" /><br><br>
 
   **Base de Datos & Cloud**<br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,docker" /><br><br>
