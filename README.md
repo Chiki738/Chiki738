@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Carlos Alzamora H.</strong><br>
-  🎓 Estudiante de Ingeniería de Sistemas e Informática<br>
+  🎓 Egresado de Ingeniería de Sistemas e Informática<br>
   <i>"Transformando ideas en código eficiente y escalable"</i>
 </p>
 
