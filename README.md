@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Carlos "Chiki" Alzamora</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Egresado de Ingeniería de Sistemas e Informática</strong><br>
-  Construyo soluciones web con foco en arquitectura clara, interfaces limpias y código mantenible.<br>
+  <strong>Frontend Developer con base Full Stack | Egresado de Ingeniería de Sistemas e Informática</strong><br>
+  Construyo interfaces web modernas con foco en usabilidad, arquitectura clara y código mantenible.<br>
   Me interesa convertir ideas en productos digitales escalables, bien estructurados y listos para evolucionar.
 </p>
 
@@ -22,7 +22,7 @@
 
 ## Perfil
 
-Soy un desarrollador orientado al ecosistema **Full Stack**, con interés especial en el análisis de requerimientos, la arquitectura de software y la construcción de aplicaciones web eficientes.
+Soy un desarrollador con base **Full Stack** y una orientación más marcada hacia el **Frontend**. Me interesa construir interfaces claras, responsivas y bien estructuradas, sin perder de vista la lógica de negocio, la arquitectura y la integración con servicios backend.
 
 Mi forma de trabajo combina organización, aprendizaje continuo y atención al detalle: busco que cada solución sea entendible para el equipo, útil para el usuario y sostenible para el proyecto.
 
@@ -30,8 +30,8 @@ Mi forma de trabajo combina organización, aprendizaje continuo y atención al d
 
 | Área | Cómo aporto |
 | --- | --- |
-| **Frontend** | Interfaces modernas, responsivas y consistentes, pensadas para una experiencia clara. |
-| **Backend** | APIs ordenadas, lógica de negocio mantenible y estructuras preparadas para crecer. |
+| **Frontend** | Interfaces modernas, responsivas y consistentes, pensadas para una experiencia clara y fluida. |
+| **Backend** | Comprensión de APIs, lógica de negocio y estructuras necesarias para integrar soluciones completas. |
 | **Base de datos** | Modelado, consultas y optimización con criterio práctico y enfoque en rendimiento. |
 | **Producto** | Traducción de necesidades reales a soluciones funcionales, medibles y bien documentadas. |
 
@@ -71,7 +71,7 @@ Mi forma de trabajo combina organización, aprendizaje continuo y atención al d
 
 ## Actualmente
 
-- Desarrollo soluciones web integrales con tecnologías modernas.
+- Desarrollo interfaces web modernas con tecnologías del ecosistema frontend.
 - Refuerzo mis conocimientos en arquitectura, bases de datos y despliegue.
 - Busco mejorar continuamente la calidad visual, técnica y funcional de cada proyecto.
 
