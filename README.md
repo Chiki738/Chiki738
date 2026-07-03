@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Carlos "Chiki" Alzamora</h1>
+<h1 align="center">Hola, soy "Chiki"</h1>
 
 <p align="center">
   <strong>Frontend Developer con base Full Stack | Egresado de Ingeniería de Sistemas e Informática</strong><br>
